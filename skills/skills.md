@@ -168,3 +168,10 @@ Electrostatics is the study of stationary electric charges and their interaction
 **Resources:**
 -[youtube-ai & ml](https://www.youtube.com/playlist?list=PLEiEAq2VkUULyr_ftxpHB6DumOq1Zz2hq)
 -[coursera-ai and ml](https://www.coursera.org/learn/fundamentals-of-machine-learning-and-artificial-intelligence)
+
+## 18. REACT
+
+React is a JavaScript library created by Facebook; is a User Interface (UI) library; is a tool for building UI components
+**Resources:**
+-[intro-react](https://r.search.yahoo.com/_ylt=AwrKAxPpYiJn_AEAEX27HAx.;_ylu=Y29sbwNzZzMEcG9zAzIEdnRpZAMEc2VjA3Ny/RV=2/RE=1731516394/RO=10/RU=https%3a%2f%2fwww.w3schools.com%2freact%2freact_intro.asp/RK=2/RS=9OYERZHQdrG_inhLdNxyjDKRYhM-)
+-[dev- react](https://r.search.yahoo.com/_ylt=AwrKC2WLYiJnIQIAOSO7HAx.;_ylu=Y29sbwNzZzMEcG9zAzEEdnRpZAMEc2VjA3Ny/RV=2/RE=1731516300/RO=10/RU=https%3a%2f%2freact.dev%2f/RK=2/RS=hdPkQC1D2yd0fQgx.jhVUCXXsC4-)
